@@ -1,0 +1,12 @@
+Tentativa de Login: null - null
+Data e Hora: Sun May 31 21:10:48 BRT 2020
+Senha invalida
+___________________________________________________________________________________________
+Tentativa de Login: null - null
+Data e Hora: Sun May 31 21:10:53 BRT 2020
+Senha invalida
+___________________________________________________________________________________________
+Tentativa de Login: null - null
+Data e Hora: Sun May 31 21:24:47 BRT 2020
+Senha invalida
+___________________________________________________________________________________________
